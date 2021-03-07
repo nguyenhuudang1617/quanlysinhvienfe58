@@ -62,5 +62,8 @@ var Validation = function () {
         console.log('abc')
     }
 
+    this.chucnangUSerA = function () {
+        console.log('userA');
+    }
 }
 
