@@ -58,5 +58,8 @@ var Validation = function () {
         return true;
     }
 
+    this.chucnangUSerA = function () {
+        console.log('userA');
+    }
 }
 
