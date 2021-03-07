@@ -58,5 +58,9 @@ var Validation = function () {
         return true;
     }
 
+    this.userB = function (){
+        console.log('abc')
+    }
+
 }
 
